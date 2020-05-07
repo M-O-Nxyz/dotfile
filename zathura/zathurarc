@@ -1,0 +1,39 @@
+set adjust-open "best-fit"
+
+unmap f
+map f toggle_fullscreen
+map [fullscreen] f toggle_fullscreen
+
+set default-bg "#120125"
+set default-fg "#AE1F2B"
+
+#set completion-bg "#120125"
+set completion-fg "#DDDDDD"
+
+set inputbar-bg "#2E1F4B"
+set inputbar-fg "#f96363"
+
+set highlight-color "#6300ff"
+set highlight-active-color "#d14eea"
+set highlight-transparency 0.3
+
+set recolor true
+#set recolor-darkcolor "#ffb58c"
+set recolor-darkcolor "#00ff9f"
+set recolor-lightcolor "#120125"
+
+set notification-bg #fd00ff
+set notification-fg #8900ff
+set notification-error-bg #ff00db 	
+set notification-error-fg #ff004d
+set notification-warning-bg #d14eea
+set notification-warning-fg #ff008d
+
+
+
+
+#set page-padding 1
+
+set guioptions ""
+
+
